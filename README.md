@@ -2,9 +2,9 @@
   <img src="static/sveltekit-electron.svg" />
 </p>
 
-# Sveltekit + Electron
+# Sveltekit + Electron + Tailwind
 
-Minimal [Sveltekit](https://github.com/sveltejs/kit#readme) + [Electron](https://www.electronjs.org/) starter template.
+Minimal [Sveltekit](https://github.com/sveltejs/kit#readme) + [Electron](https://www.electronjs.org/) + [Tailwind](https://https://tailwindcss.com) starter template.
 
 <br />
 

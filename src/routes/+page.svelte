@@ -18,7 +18,7 @@
 <main>
 	<Logo />
 
-	<h1>Hello {agent}!</h1>
+	<h1 class="text-3xl font-bold underline">Hello {agent}!</h1>
 
 	<Counter id="0" {agent} />
 
@@ -29,7 +29,7 @@
 	{/if}
 </main>
 
-<style>
+<style lang="postcss">
 	:root {
 		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
 			Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
